@@ -1,0 +1,14 @@
+C:\Users\jacob\source\repos\inout parameters.css\bin\Debug\netcoreapp3.1\inout parameters.css.exe
+C:\Users\jacob\source\repos\inout parameters.css\bin\Debug\netcoreapp3.1\inout parameters.css.deps.json
+C:\Users\jacob\source\repos\inout parameters.css\bin\Debug\netcoreapp3.1\inout parameters.css.runtimeconfig.json
+C:\Users\jacob\source\repos\inout parameters.css\bin\Debug\netcoreapp3.1\inout parameters.css.runtimeconfig.dev.json
+C:\Users\jacob\source\repos\inout parameters.css\bin\Debug\netcoreapp3.1\inout parameters.css.dll
+C:\Users\jacob\source\repos\inout parameters.css\bin\Debug\netcoreapp3.1\inout parameters.css.pdb
+C:\Users\jacob\source\repos\inout parameters.css\obj\Debug\netcoreapp3.1\inout parameters.css.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\inout parameters.css\obj\Debug\netcoreapp3.1\inout parameters.css.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\inout parameters.css\obj\Debug\netcoreapp3.1\inout parameters.css.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\inout parameters.css\obj\Debug\netcoreapp3.1\inout parameters.css.AssemblyInfo.cs
+C:\Users\jacob\source\repos\inout parameters.css\obj\Debug\netcoreapp3.1\inout parameters.css.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\inout parameters.css\obj\Debug\netcoreapp3.1\inout parameters.css.dll
+C:\Users\jacob\source\repos\inout parameters.css\obj\Debug\netcoreapp3.1\inout parameters.css.pdb
+C:\Users\jacob\source\repos\inout parameters.css\obj\Debug\netcoreapp3.1\inout parameters.css.genruntimeconfig.cache
